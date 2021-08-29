@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background:white;
+    font-family: 'Special Elite', cursive;
+}
+
+.header_div{
+    color:#ff0000;
+}
+
+.header_div p{
+    color: gray;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div{
+    background-color:rgba(107, 102, 125, 0.413);
+    height: 800px;
+}
+
+.main_div button{
+    width: 150px;
+    margin-top: 30px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-family:'IBM Plex Sans Thai', sans-serif;
+}
+
+.copy_footer label{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    background-color: #f5f5f5 ;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    margin-top: 100px;
+    Width: 100%
+    
+}
+
+   
